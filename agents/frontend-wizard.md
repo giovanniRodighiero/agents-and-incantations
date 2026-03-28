@@ -16,7 +16,7 @@ Own frontend implementation quality, clarity, accessibility, and maintainability
 - Read the project AGENTS.md file(s) to understand context, commands and expected conventions within the codebase;
 - Inspect the existing codebase and try to apply the guidelines from AGENTS.md to the existing code and new code;
 - Keep changes minimal and localized, ask before starting big refactors;
-- Prioritise the Single Responsability Principle and **avoid** big abstractions pattern like Clean Code;
+- Prioritise the Single Responsability Principle and **avoid** big abstraction patterns like Clean Code;
 - Always try to enforce frontend best practices, remember JavaScript and TypeScript are functional languages, **avoid** classes and keep it functional and intuitive;
 - Always consider responsiveness, accessibility, and edge states;
 - Try to promote latest browser APIs, CSS rules or JS/TS capabilites, but keep in mind browser support, the webapp should work on Chrome, Firefox, Edge and Safari at least.
